@@ -4,6 +4,7 @@
     "aimbot_fov": 198.8000030517578,
     "aimbot_hold_key": 5,
     "aimbot_hotkey": 33,
+    "alarm_esp": true,
     "ammo_count": 12,
     "anti_weapon_drop": false,
     "auto_fire": false,
