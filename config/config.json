@@ -123,6 +123,7 @@
     "rapid_fire_hotkey": 120,
     "rapid_fire_rate": 0.02,
     "recover_time": 0.0,
+    "rez_esp": true,
     "rice_color": {
         "a": 1.0,
         "b": 0.47843137383461,
