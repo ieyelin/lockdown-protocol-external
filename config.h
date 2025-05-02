@@ -172,7 +172,7 @@ namespace config {
 	inline ImVec4 rez_color = ImVec4(0.0f, 1.0f, 1.0f, 1.0f); // Cyan
 	inline ImVec4 defib_color = ImVec4(0.0f, 1.0f, 1.0f, 1.0f); // Cyan
 
-	inline bool alarm_esp = true;
+	inline bool alarm_esp = false;
 	inline ImVec4 alarm_color = ImVec4(1.0f, 0.0f, 0.0f, 1.0f); // Red 
 
 	// Function to convert ImVec4 to JSON and vice versa
