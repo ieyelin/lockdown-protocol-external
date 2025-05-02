@@ -14,7 +14,7 @@
         "g": 0.7411764860153198,
         "r": 0.7411764860153198
     },
-    "can_inventory": false,
+    "can_inventory": true,
     "cast_time": 0.0,
     "container_color": {
         "a": 1.0,
